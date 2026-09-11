@@ -27,6 +27,7 @@ The project explores:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Sklearn
 
 ## 🎯 Purpose
 
